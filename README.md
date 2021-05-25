@@ -18,6 +18,7 @@ The following packages are included so you don't have to type them all in
 
 1. TailwindCSS
 2. HeadlessUI (By Tailwind)
+3. React Icons
 
 ### Plugins
 
