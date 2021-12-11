@@ -24,11 +24,10 @@ The following packages are included so you don't have to type them all in
 
 1. Google Gtag
 2. Image
-3. MDX
-4. PostCSS
-5. React Helmet
-6. Sharp
-7. Sitemap
+3. PostCSS
+4. React Helmet
+5. Sharp
+6. Sitemap
 
 ### Source
 
